@@ -1,6 +1,8 @@
 # Building-a-Complete-Database-Management-System
 
-Project Title: Clinic Appointment and Patient Management System
+💡 Project Title: Clinic Appointment and Patient Management System
+
+
 🎯 Objective:
 Design and implement a relational database for managing clinic appointments, patients, doctors, and billing. This system will track:
 
